@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Believe×Believe",
+  "base_artist": "超特急",
+  "createdAt": "2026-03-25T17:07:46.588712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "believe believe",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/01_believe_believe_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Believe [Believe, 1998]",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/02_Believe_[Believe,_1998]_Cher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "believe (believe)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/03_believe_(believe)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Believe×Believe",
+      "artist": "山本希望",
+      "has_synced": true,
+      "path": "select/04_Believe×Believe_山本希望.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Believe×Believe",
+      "artist": "ユリエ゠シグトゥーナ(CV:山本希望)",
+      "has_synced": true,
+      "path": "select/05_Believe×Believe_ユリエ゠シグトゥーナ(CV_山本希望).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I DO BELIEVE / BELIEVE MIX,星光灿烂",
+      "artist": "蔡健雅",
+      "has_synced": true,
+      "path": "select/06_I_DO_BELIEVE___BELIEVE_MIX,星光灿烂_蔡健雅.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Believe×Believe",
+      "artist": "chotokkyu",
+      "has_synced": false,
+      "path": "select/07_Believe×Believe_chotokkyu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Believe - Believe",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/08_Believe_-_Believe_Cher.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Believe×Believe",
+      "artist": "ユリエ＝シグトゥーナ(CV.山本希望)",
+      "has_synced": false,
+      "path": "select/09_Believe×Believe_ユリエ=シグトゥーナ(CV.山本希望).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believe×Believe",
+      "artist": "超特急",
+      "has_synced": false,
+      "path": "select/pl_01_Believe×Believe_超特急.txt"
+    }
+  ]
+}
